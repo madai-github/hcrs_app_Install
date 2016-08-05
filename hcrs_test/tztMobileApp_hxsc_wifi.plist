@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://113.105.78.251/mobile/test/HXSC_New2.0/hcrsAppTest_V20160803.ipa</string>
+					<string>http://10.33.4.181:7070/mobile/test/HXSC_New2.0/hcrsAppTest_V20160803.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://113.105.78.251/mobile/test/HXSC_New2.0/Icon57.png</string>
+					<string>http://10.33.4.181:7070/mobile/test/HXSC_New2.0/Icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://113.105.78.251/mobile/test/HXSC_New2.0/Icon512.png</string>
+					<string>http://10.33.4.181:7070/mobile/test/HXSC_New2.0/Icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
