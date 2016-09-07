@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://113.105.78.251/mobile/test/HXSC_New2.0/hcrsAppTest_V20160815.ipa</string>
+					<string>http://113.105.78.251/mobile/test/HXSC_New2.0/tztMobileApp_hxsc.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>hcrsAppTest_V20160815</string>
+				<string>tztMobileApp_hxsc</string>
 			</dict>
 		</dict>
 	</array>
