@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>http://10.33.4.181:7070/mobile/test/HXSC_New2.0/tztMobileApp_hxsc.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>http://10.33.4.181:7070/mobile/test/HXSC_New2.0/Icon57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>http://10.33.4.181:7070/mobile/test/HXSC_New2.0/Icon512.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
